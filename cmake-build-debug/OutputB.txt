@@ -1,5 +1,0 @@
-Dine In 3.80
-Drive-thru 3.50
-Take away 3.98
-Never 0.00
-Other 0.00

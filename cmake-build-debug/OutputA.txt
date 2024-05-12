@@ -1,4 +1,0 @@
-Student 5
-Self-Employed 5
-Employed 5
-Housewife 4

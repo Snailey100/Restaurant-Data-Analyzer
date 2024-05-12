@@ -1,3 +1,0 @@
-C:/Users/snail/CLionProjects/Module 10/cmake-build-debug/CMakeFiles/Module_10.dir
-C:/Users/snail/CLionProjects/Module 10/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/snail/CLionProjects/Module 10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
